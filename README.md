@@ -3,7 +3,7 @@
 
 ### About me:
 
-- 💼 I am Software Developer since 2012, currently working with technologies as PHP|Laravel|Lumen and JavaScript|Node.js|Vue|Angular.
+- 💼 I am Software Developer since 2012, currently working with technologies as PHP and JavaScript.
 - 🎓 Graduated in Analysis and Development system.
 - 😎 In search of professional and personal growth.
 
