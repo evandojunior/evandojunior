@@ -3,7 +3,7 @@
 
 ### About me:
 
-- 💼 I am Software Developer since 2012, currently working with technologies as JavaScript (React, React Native, Angular, Vue and Node.js).
+- 💼 I am Software Developer since 2014, currently working with technologies as JavaScript (React, React Native, Angular, Vue and Node.js).
 - 🎓 Graduated in Analysis and Development system.
 - :fire: In search of professional and personal growth.
 
