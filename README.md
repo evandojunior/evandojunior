@@ -41,10 +41,9 @@ I am a **Senior Software Developer** with 10 years of experience delivering robu
 ---
 
 ### 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=evandojunior&show_icons=true&theme=tokyonight" alt="Evando's GitHub stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandojuniord&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
-</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=evandojunior&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandojunior&layout=compact&theme=tokyonight" />
 
 ---
 
