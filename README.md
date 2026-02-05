@@ -1,71 +1,53 @@
+# Hello World, I'm Evando Junior 👋
 
-# Hello World, I'm Evando Junior
+### 👨‍💻 Software Developer
 
-### About me:
+I am a **Senior Software Developer** with 10 years of experience delivering robust and scalable solutions. I specialize in the modern JavaScript ecosystem but have a deep-rooted background in Full Stack engineering. Throughout my career, I have spearheaded critical legacy modernizations and high-stakes projects for major government and private institutions.
 
-- 💼 I am Software Developer since 2014, currently working with technologies as JavaScript (React, React Native, Angular, Vue and Node.js).
-- 🎓 Graduated in Analysis and Development system.
-- :fire: In search of professional and personal growth.
-
-### Contact Me:
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evandojuniordev) 
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/evandojunior) 
-[![Twitter](http://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/evandojuniordev)
-[![Telegram](http://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/evandojuniordev)
-
-
-### Technologies
-
-#### Languages and engines
-<img height="25" src="https://img.shields.io/badge/php-4da6ff.svg?&style=for-the-badge&logo=php&logoColor=white"> </img>
-<img height="25" src="https://img.shields.io/badge/nodejs-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></img> 
-<img height="25" src="https://img.shields.io/badge/javascript-ffff00.svg?&style=for-the-badge&logo=javascript&logoColor=000"></img>
-<img height="25" src="https://img.shields.io/badge/typescript-33adff.svg?&style=for-the-badge&logo=typescript&logoColor=white"></img>
-
-#### Frameworks
-<img height="25" src="https://img.shields.io/badge/laravel-FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"> </img>
-<img height="25" src="https://img.shields.io/badge/Lumen-E74430.svg?&style=for-the-badge&logo=Lumen&logoColor=white"> </img>
-<img height="25" src="https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/angular-E23237.svg?&style=for-the-badge&logo=angular&logoColor=white"> </img>
-<img height="25" src="https://img.shields.io/badge/bootstrap-33adff.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"> </img>
-
-#### Databases
-<img height="25" src="https://img.shields.io/badge/postgresql-336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white"></img>
-
-#### O.S
-<img height="25" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"></img>
-
-#### Others
-<img height="25" src="https://img.shields.io/badge/docker-33adff.svg?&style=for-the-badge&logo=docker&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/Gitlab-388e3c.svg?style=for-the-badge&logo=Gitlab&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=Github&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/Composer-885630.svg?&style=for-the-badge&logo=composer&logoColor=white"> </img>
-<img height="25" src="https://img.shields.io/badge/Swagger-85EA2D.svg?&style=for-the-badge&logo=Swagger&logoColor=black"></img>
-<img height="25" src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/NGinx-269539.svg?&style=for-the-badge&logo=NGinx&logoColor=white"></img> 
-<img height="25" src="https://img.shields.io/badge/Apache-D22128.svg?&style=for-the-badge&logo=Apache&logoColor=white"></img>
-
+- 🔭 I’m currently working on **Modernizing legacy systems and building scalable Frontend architectures.**
+- 🌱 I’m currently deepening my knowledge in **Cloud Architecture and Advanced Performance Optimization.**
+- 💬 Ask me about **React, Next.js, Node.js, and legacy system migrations.**
+- 📫 How to reach me: **evando.junior@live.com**
 
 ---
 
-<p align="center">
-  <a href="https://github.com/evandojunior/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandojunior&layout=compact&theme=dracula"
-    />
-  </a>
-  <a href="https://github.com/evandojunior/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=evandojunior&show_icons=true&theme=dracula"
-    />
-  </a>
+### 🛠 Tech Stack & Tools
+
+#### **Languages & Core**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+#### **Frontend Frameworks & Libraries**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+#### **Backend & Databases**
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+#### **DevOps & Tools**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📈 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=evandojuniordev&show_icons=true&theme=tokyonight" alt="Evando's GitHub stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandojuniordev&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
 </p>
 
+---
+
+### 🤝 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evandojuniordev/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/evandojuniordev)
