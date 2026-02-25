@@ -40,13 +40,6 @@ I am a **Senior Software Developer** with 10 years of experience delivering robu
 
 ---
 
-### 📈 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=evandojunior&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandojunior&layout=compact&theme=tokyonight" />
-
----
-
 ### 🤝 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evandojuniordev/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/evandojuniordev)
